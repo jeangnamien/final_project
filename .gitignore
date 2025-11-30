@@ -1,4 +1,4 @@
-_pycache__/
+__pycache__/
 *.py[cod]
 *$py.class
 *.so
@@ -16,3 +16,6 @@ poetry.lock
 .idea/
 *.swp
 *.swo
+
+# Marimo
+.marimo/
